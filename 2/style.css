@@ -1,0 +1,17 @@
+article{
+	text-align: center;
+}
+figcaption{
+	font-size: 19px;
+}
+span{
+	text-decoration: underline;
+	color: DarkBlue;
+}
+img{
+	width: 300px;
+	border: 4px double #f0f;
+}
+footer{
+	border-bottom: 2px dashed #000;
+}
