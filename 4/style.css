@@ -1,0 +1,27 @@
+   #container {
+    width: 1000px; 
+    margin: 0 auto; 
+    background: brown;
+   }
+   #header { 
+    height: 100px;
+    background: green;
+   }
+   #nav, #aside {
+    float: left;
+   }
+   #content {
+    height: 500px;
+    background: yellow;
+    margin: 0 200px; 
+/*    padding: 50px;*/
+   }
+   #aside {
+    float: right; 
+   }
+   #footer { 
+    height: 50px;
+    clear: both; 
+    padding: 5px; 
+    background: grey; 
+   }
