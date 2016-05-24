@@ -1,0 +1,27 @@
+*{
+	background-color: #9BCD9B;
+}
+
+li{
+    list-style-type: none; 
+  }
+
+a{
+  	color:black;
+ }
+ a:after {
+  	content:'';
+  }
+.first>li:before{
+	content:'✫ ';
+}
+
+.second>li:before{
+	content: '➤ ';
+}
+
+.third>li:before{
+	content: '⚜ ';
+}
+
+  
